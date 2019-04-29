@@ -16,7 +16,7 @@ namespace CommandLineInterfaceApp
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.Write("OS CLI > ");
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ForegroundColor = ConsoleColor.White;        
 
                 cmdLine = Console.ReadLine();
 
